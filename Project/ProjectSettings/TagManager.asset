@@ -30,14 +30,23 @@ TagManager:
   - purpleAgent
   - purpleGoal
   - tile
+  - ex
+  - key
+  - blockLarge
+  - blockSmall
+  - blockVeryLarge
+  - lock
+  - dragon
+  - portal
+  - plus
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Walls
   - Water
   - UI
-  - 
+  - Car
   - 
   - invisible
   - 
